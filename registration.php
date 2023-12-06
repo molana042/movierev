@@ -1,6 +1,6 @@
 <?php
 // Menetapkan judul halaman
-$page_title = "Create new user";
+$page_title = "Daftar Akun Baru";
 
 // Memanggil header.php untuk bagian header
 include ('includes/header.php');

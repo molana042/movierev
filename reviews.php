@@ -1,6 +1,6 @@
 <?php
 // Menetapkan judul halaman
-$page_title = "Prutor.ai: Reviews";
+$page_title = "Reviews";
 
 // Memanggil header.php untuk bagian header
 require_once('includes/header.php');
